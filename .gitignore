@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Log4SlackExample/v15
+/Log4SlackExample/bin/Debug
+/Log4SlackExample/obj/Debug
+/packages
